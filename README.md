@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kamlee-swag/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Kamlee Swag](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kamlee-swag/) |
+| **Get License** | [Official Music Licensing for Kamlee Swag](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kamlee-swag/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `93dabf8002ddaf655a47e452be13c0c94d85587a11fb7c7ea90744ff817a8fef` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
