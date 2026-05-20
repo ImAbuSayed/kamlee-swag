@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kamlee-swag/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Kamlee Swag](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kamlee-swag/) |
+| **Get License** | [Request Licensing for Kamlee Swag](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kamlee-swag/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 6d22cf706331fee806244f473f2bc0ee71ac44f2
+> Akhiyan chon dulda ae tera nasha deep,
+> Main takda haan tainu chhad ke apni sleep.
+> Zulfan di chhanv thalle labhda haan cure,
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
